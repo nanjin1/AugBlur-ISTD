@@ -8,9 +8,7 @@ pip install -r requirement.txt
 ```
 
 # Usage
-<font style="color:rgb(31, 35, 40);">Download the dataset AugBlur-ISTD：Download dir[</font>[AugBlur-ISTD](https://pan.baidu.com/s/17Nq6e35Gb_oL3y1TylzUeA)<font style="color:rgb(31, 35, 40);">]</font>
-
-<font style="color:rgb(31, 35, 40);">key：</font>
+<font style="color:rgb(31, 35, 40);">Download the dataset AugBlur-ISTD：Download dir[</font>[Dataset]](about:blank)
 
 ### <font style="color:rgb(31, 35, 40);">1.Dataset</font>
 + **<font style="color:rgb(31, 35, 40);">Our project has the following structure</font>**
