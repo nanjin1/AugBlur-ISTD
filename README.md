@@ -8,7 +8,7 @@ pip install -r requirement.txt
 ```
 
 # Usage
-<font style="color:rgb(31, 35, 40);">Download the dataset AugBlur-ISTD：Download dir[</font>[Dataset]](about:blank)
+<font style="color:rgb(31, 35, 40);">Download the dataset AugBlur-ISTD：Download dir[</font>[Dataset](https://pan.baidu.com/s/1t1_TwM3-Ozadu3R6eBh3rA?pwd=gi4c)<font style="color:rgb(31, 35, 40);">]</font>
 
 ### <font style="color:rgb(31, 35, 40);">1.Dataset</font>
 + **<font style="color:rgb(31, 35, 40);">Our project has the following structure</font>**
@@ -91,4 +91,6 @@ python test.py
 <font style="color:rgb(31, 35, 40);">This project is build based on</font><font style="color:rgb(31, 35, 40);"> </font>[SCTransNet](https://github.com/xdFai/SCTransNet)<font style="color:rgb(31, 35, 40);">. Thanks to Shuai Yuan.</font>
 
 <font style="color:rgb(31, 35, 40);">The comparative experiments of our method with other methods are based on </font>[HIT-UAV.](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)<font style="color:rgb(31, 35, 40);"> Thanks to Jiashun Suo.</font>
+
+
 
